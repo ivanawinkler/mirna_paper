@@ -1,4 +1,4 @@
-## Links to relevant code for the paper
+## Links to relevant code for the paper: PPARG- and EGR1-directed anti-fibrotic miRNA network regulates cancer-associated liver fibrosis
 
 ### [ImageJ macros](https://github.com/ivanawinkler/ImageJ_macros)
 
