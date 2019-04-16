@@ -1,4 +1,4 @@
-## Links to relevant code for the paper: PPARG- and EGR1-directed anti-fibrotic miRNA network regulates cancer-associated liver fibrosis
+## Links to relevant code for the paper: Anti-fibrotic miRNA hubs modulated by Pparg shape the fibrotic microenvironment during hepatic stellate cell activation
 
 ### [ImageJ macros](https://github.com/ivanawinkler/ImageJ_macros)
 
